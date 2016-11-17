@@ -16,7 +16,7 @@ body {
 }
 
 .bkgd {
-    background-image: url(../img/bg01.png);
+    background-image: url(bg01.png);
     height: 100%;
     width: 100%;
 }
