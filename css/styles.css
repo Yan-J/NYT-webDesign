@@ -1,0 +1,22 @@
+
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    
+    background-color: #f1f1f1;
+    font-family: 'Open Sans';
+    color: #333;
+    margin: 0;
+    padding: 50px 15px;
+    text-align: center;
+}
+
+.bkgd {
+    background-image: url(../img/bg01.png);
+    height: 100%;
+    width: 100%;
+}
