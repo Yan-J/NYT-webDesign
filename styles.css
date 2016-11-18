@@ -28,3 +28,10 @@ body {
     width: 110%;
     opacity: 0;
 }
+#msg {
+    position:absolute;
+    left: 450px;
+    top: 0px;
+   
+    
+}
