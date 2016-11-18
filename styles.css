@@ -21,6 +21,10 @@ body {
     width: 100%;
 }
 
+.fb-messengermessageus{
+    opacity: 0;
+}
+
 #fb {
     position:absolute;
     left: 303px;
@@ -31,7 +35,7 @@ body {
 #msg {
     position:absolute;
     left: 450px;
-    top: 0px;
+    top: -25px;
    
     
 }
