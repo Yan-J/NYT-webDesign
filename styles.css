@@ -16,7 +16,15 @@ body {
 }
 
 .bkgd {
-    background-image: url(bg01.png);
+    position: relative;
     height: 100%;
     width: 100%;
+}
+
+#fb {
+    position:absolute;
+    left: 303px;
+    top: 80px;
+    width: 110%;
+    opacity: 0;
 }
